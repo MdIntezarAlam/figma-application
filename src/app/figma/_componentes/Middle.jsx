@@ -7,7 +7,7 @@ export default function Middle() {
         This is Figma Application Design
       </h1>
       <h1 className="text-black text-3xl font-bold text-center">
-        Maded by <p className="text-red-800">ADNAN KUMARI</p>
+        Maded by <p className="text-red-800">Md Intezar Alam</p>
       </h1>
     </div>
   );

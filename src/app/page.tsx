@@ -1,10 +1,6 @@
-import React from 'react'
-import Figma from './figma/page'
+import React from "react";
+import Figma from "./figma/page";
 
 export default function page() {
-  return (
-    
-      <Figma/>
-    
-  )
+  return <Figma />;
 }
